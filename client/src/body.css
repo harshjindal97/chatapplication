@@ -1,0 +1,32 @@
+.colours {
+    background-color: rgb(241, 241, 241);
+    height: 100%;
+    padding: 5px;
+    border-radius: 10px;
+    width: 100%;
+}
+
+.msg-left {
+    background-color: rgb(182, 178, 178);
+    width: 25%;
+    border-radius: 10px;
+    padding: 6px;
+    margin: 4px;
+    border: 1px solid rgb(138, 132, 132);
+    clear: both;
+}
+
+.msg-right {
+    background-color: rgb(182, 178, 178);
+    width: 25%;
+    border-radius: 10px;
+    padding: 6px;
+    margin: 4px;
+    border: 1px solid rgb(138, 132, 132);
+    float: right;
+    clear: both;
+}
+
+.float_prop {
+    float: right;
+}
