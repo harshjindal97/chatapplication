@@ -6,7 +6,7 @@
     width: 100%;
 }
 
-.msg-left {
+#msgleft {
     background-color: rgb(182, 178, 178);
     width: 25%;
     border-radius: 10px;
@@ -16,7 +16,7 @@
     clear: both;
 }
 
-.msg-right {
+#msgright {
     background-color: rgb(182, 178, 178);
     width: 25%;
     border-radius: 10px;

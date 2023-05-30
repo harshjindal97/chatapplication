@@ -65,3 +65,11 @@
 .navdiv {
     display: flex;
 }
+
+.textdate {
+    font-size: x-small;
+}
+
+.navposition {
+    position: sticky;
+}
